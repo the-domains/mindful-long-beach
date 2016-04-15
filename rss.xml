@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mindful Long Beach]]></title>
+        <description><![CDATA[Mindful Long Beach]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 22:51:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Mindful Long Beach. Choose Happy. ]]></title>
+            <description><![CDATA[<article><h1>Welcome to Mindful Long Beach. Choose Happy. </h1><p>Welcome to Mindful Long Beach. Choose Happy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ffe037c-fd51-48cb-a086-151c0e656738.png"></article>]]></description>
+            <link>undefinedwelcome-to-mindful-long-beach-choose-happy/index.html</link>
+            <guid isPermaLink="false">4fa1beb2-591d-4202-8b5d-099de9d68fd5</guid>
+            <pubDate>Fri, 15 Apr 2016 22:51:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
