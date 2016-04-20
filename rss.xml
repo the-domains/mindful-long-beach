@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mindful Long Beach]]></title>
         <description><![CDATA[Mindful Long Beach]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mindful-long-beach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 22:51:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 01:11:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mindful-long-beach/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cd1d9c2-6fb9-4f8c-b6d8-1c8fc94b88fd.jpg">]]></description>
+            <link>https://thegrid.ai/mindful-long-beach/d496b738-276d-499a-8c79-74bbe0347ae2/index.html</link>
+            <guid isPermaLink="false">d496b738-276d-499a-8c79-74bbe0347ae2</guid>
+            <pubDate>Wed, 20 Apr 2016 01:10:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to Mindful Long Beach. Choose Happy. ]]></title>
-            <description><![CDATA[<article><h1>Welcome to Mindful Long Beach. Choose Happy. </h1><p>Welcome to Mindful Long Beach. Choose Happy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ffe037c-fd51-48cb-a086-151c0e656738.png"></article>]]></description>
-            <link>undefinedwelcome-to-mindful-long-beach-choose-happy/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to Mindful Long Beach. Choose Happy. </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ffe037c-fd51-48cb-a086-151c0e656738.png"></article>]]></description>
+            <link>https://thegrid.ai/mindful-long-beach/welcome-to-mindful-long-beach-choose-happy/index.html</link>
             <guid isPermaLink="false">4fa1beb2-591d-4202-8b5d-099de9d68fd5</guid>
             <pubDate>Fri, 15 Apr 2016 22:51:19 GMT</pubDate>
         </item>
