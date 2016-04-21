@@ -13,7 +13,7 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3046595
+  saturation: 0.7419355
   brandStrength: 0.1875
   lightness: 0.4928315
   brandColors:
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#8e6e01'
     - '#383838'
-  rhythmicContrast: 0.3566308
+  rhythmicContrast: 0.7473118
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Mindful Long Beach
 favicon: null
+name: Mindful Long Beach
 opengraph:
   image: null
   type: null
