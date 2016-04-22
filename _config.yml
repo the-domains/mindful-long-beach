@@ -1,5 +1,8 @@
+name: Mindful Long Beach
+favicon: null
+layout_spectrum: 0.7383512
+typography_spectrum: 0
 title: MINDFUL LONG BEACH
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7419355
-  brandStrength: 0.1875
-  lightness: 0.4928315
   brandColors:
     - '#dcbc4f'
     - '#ffffff'
     - '#000000'
     - '#8e6e01'
-    - '#383838'
+    - '#713667'
+  brandStrength: 0.1875
+  lightness: 0.4928315
+  saturation: 0.7419355
   rhythmicContrast: 0.7473118
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Mindful Long Beach
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 0.7383512
+purpose: []
