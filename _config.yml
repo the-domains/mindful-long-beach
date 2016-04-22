@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.5421585
   brandStrength: 0.7588533
-  lightness: 1
+  lightness: 0.8402256
   brandColors:
     - '#FFFFFF'
     - '#DBBA49'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Mindful Long Beach
 favicon: null
+name: Mindful Long Beach
 opengraph:
   image: null
   type: null
