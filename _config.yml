@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.6917293
-  brandStrength: 0.6458685
+  brandStrength: 0.3895447
   lightness: 0.3640351
   brandColors:
     - '#FFFFFF'
+    - '#DBBA49'
+    - '#C2C2C2'
     - '#000000'
-    - '#DDDDDD'
-    - '#2F2550'
-    - '#817F85'
+    - '#9C7A0F'
   rhythmicContrast: 0.6365936
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Mindful Long Beach
+favicon: null
 opengraph:
   image: null
   type: null
