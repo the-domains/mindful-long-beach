@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Breathe. We'll be having a 6-week introduction to Mindful Living Course starting shortly, most likely in early June. If you want more information, feel free to shoot us an email at info@mindfullongbeach.com"
-datePublished: '2016-04-23T05:11:17.657Z'
-dateModified: '2016-04-23T05:10:42.108Z'
+datePublished: '2016-04-23T05:16:23.577Z'
+dateModified: '2016-04-23T05:16:23.078Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-20-breathe-well-be-having-a-6-week-introduction-to-mindful-li.md
 published: true
 authors: []
