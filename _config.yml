@@ -13,7 +13,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.6045531
+  saturation: 0.5556492
   brandStrength: 0.3895447
   lightness: 0.3220911
   brandColors:
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Mindful Long Beach
+favicon: null
 opengraph:
   image: null
   type: null
