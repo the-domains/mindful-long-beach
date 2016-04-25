@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-23T16:06:10.687Z'
-dateModified: '2016-04-23T16:05:10.398Z'
+description: "Breathe. We'll be having a 6-week introduction to Mindful Living Course starting shortly, most likely in early June. If you want more information, feel free to shoot us an email at info@mindfullongbeach.com"
+datePublished: '2016-04-25T18:39:18.669Z'
+dateModified: '2016-04-25T18:39:00.716Z'
 title: ''
 author:
   - name: ''
@@ -26,4 +26,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e2f575a-c013-40bd-b81b-1dd95022320f.jpg)
 
-* Breathe. We'll be having a 6-week introduction to Mindful Living Course starting shortly, most likely in early June. If you want more information, feel free to shoot us an email at info@mindfullongbeach.com
+Breathe. We'll be having a 6-week introduction to Mindful Living Course starting shortly, most likely in early June. If you want more information, feel free to shoot us an email at info@mindfullongbeach.com
