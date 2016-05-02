@@ -4,7 +4,7 @@
         <description><![CDATA[MINDFUL LONG BEACH]]></description>
         <link>https://thegrid.ai/mindful-long-beach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 21:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 04:11:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mindful-long-beach/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/mindful-long-beach/introduction-to-mindful-living-course-starts-mid-june/index.html</link>
             <guid isPermaLink="false">32cd743a-15f4-422d-bcc1-844f64c51984</guid>
             <pubDate>Fri, 29 Apr 2016 17:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Mindfulness: It's for the whole family.</p>]]></description>
+            <link>https://thegrid.ai/mindful-long-beach/mindfulness-its-for-the-whole-family/index.html</link>
+            <guid isPermaLink="false">28c44383-e8e4-4a0c-9a28-2c2baa16df99</guid>
+            <pubDate>Mon, 02 May 2016 04:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.mindful.org/three-simple-mindfulness-practices-you-can-use-every-day/</link>
             <guid isPermaLink="false">7d770be9-d180-405a-b7db-97fb74b1d553</guid>
             <pubDate>Fri, 22 Apr 2016 19:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What an iPhone Addict Learned From Meditating for 365 Days Straight]]></title>
-            <description><![CDATA[<article><h1>What an iPhone Addict Learned From Meditating for 365 Days Straight</h1><p>Here's how meditating changed me over the last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/416a703448cec5bd0adbbf07c8d2cbdec6ae7db4.jpg"></article>]]></description>
-            <link>https://www.thrillist.com/health/nation/how-to-meditate-what-i-learned-from-meditating-for-365-days-straight</link>
-            <guid isPermaLink="false">4dca0d80-28dc-435f-84f9-227664a09473</guid>
-            <pubDate>Fri, 22 Apr 2016 09:23:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
