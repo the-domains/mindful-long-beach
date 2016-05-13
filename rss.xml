@@ -4,7 +4,7 @@
         <description><![CDATA[MINDFUL LONG BEACH]]></description>
         <link>https://thegrid.ai/mindful-long-beach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 16:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 20:26:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mindful-long-beach/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/mindful-long-beach/introduction-to-mindful-living-course-starts-mid-june/index.html</link>
             <guid isPermaLink="false">32cd743a-15f4-422d-bcc1-844f64c51984</guid>
             <pubDate>Fri, 29 Apr 2016 17:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/425861c9-901e-483f-824d-ae6982738f11.jpg">]]></description>
+            <link>https://thegrid.ai/mindful-long-beach/announcement-about-a-free-workshop-coming-up-be-sure-to-li/index.html</link>
+            <guid isPermaLink="false">1d3dfc67-bff8-45e7-9ed8-6e4c3b1215a0</guid>
+            <pubDate>Fri, 13 May 2016 20:25:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mindful-long-beach/newsletter/index.html</link>
             <guid isPermaLink="false">d0b0666e-bbe7-49a8-a57f-2fdb4d373a51</guid>
             <pubDate>Fri, 29 Apr 2016 17:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ganesh]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9ecafa72634f9c95e3ef1acf0bd91fbeb83b2fd.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/mindful-long-beach/e2eb6619-4f64-467b-a2b7-ddafb1a250e7/index.html</link>
-            <guid isPermaLink="false">e2eb6619-4f64-467b-a2b7-ddafb1a250e7</guid>
-            <pubDate>Thu, 28 Apr 2016 21:02:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
