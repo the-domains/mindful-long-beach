@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Announcement about a free workshop coming up. Be sure to "like" the Mindful Long Beach Facebook page for more information and to sign up'
-datePublished: '2016-05-13T20:25:55.049Z'
-dateModified: '2016-05-13T20:23:13.736Z'
+datePublished: '2016-05-13T20:35:06.798Z'
+dateModified: '2016-05-13T20:34:40.486Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-13-announcement-about-a-free-workshop-coming-up-be-sure-to-li.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-announcement-about-a-free-workshop-coming-up-be-sure-to-li.md
 url: announcement-about-a-free-workshop-coming-up-be-sure-to-li/index.html
 _type: Article
 
