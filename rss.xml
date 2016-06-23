@@ -4,7 +4,7 @@
         <description><![CDATA[MINDFUL LONG BEACH]]></description>
         <link>https://thegrid.ai/mindful-long-beach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 19:59:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 19:35:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mindful-long-beach/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/mindful-long-beach/introduction-to-mindful-living-course-starts-mid-june/index.html</link>
             <guid isPermaLink="false">32cd743a-15f4-422d-bcc1-844f64c51984</guid>
             <pubDate>Fri, 29 Apr 2016 17:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Self-Compassion is the New Mindfulness - Mindful]]></title>
+            <description><![CDATA[<article><h1>Why Self-Compassion is the New Mindfulness - Mindful</h1><p>Did you know self-compassion is the new black? Last year it was mindfulness but this year, attending without judgment is out and compassion for you as an antidote to your perceived low self-worth, failure, or any other form of suffering is definitely in.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a9b55839501d2383a76aacd6d08543dd/croprotate.jpg?cropheight=357&cropwidth=402&degrees=0&input=http%3A%2F%2Fwww.mindful.org%2Fwp-content%2Fuploads%2F2016%2F06%2Frockman-compassion.jpg&x=159&y=0"></article>]]></description>
+            <link>http://www.mindful.org/self-compassion-new-mindfulness/</link>
+            <guid isPermaLink="false">40855b47-c6fb-40ac-aa6e-04a369c6613e</guid>
+            <pubDate>Thu, 23 Jun 2016 19:35:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.mindful.org/raising-the-mindful-family/</link>
             <guid isPermaLink="false">2cad324f-d64b-449e-a931-787e2649eac2</guid>
             <pubDate>Mon, 02 May 2016 04:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69df0151-2596-4369-9e12-f8d306a951cc.jpg">]]></description>
-            <link>https://thegrid.ai/mindful-long-beach/5afbf619-35d5-415b-9147-11b822fd29b7/index.html</link>
-            <guid isPermaLink="false">5afbf619-35d5-415b-9147-11b822fd29b7</guid>
-            <pubDate>Fri, 29 Apr 2016 21:03:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
