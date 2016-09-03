@@ -1,16 +1,16 @@
-layout_spectrum: 0.48360303440131247
-typography_spectrum: 0.31449832930229604
+layout_spectrum: 0.8205501746851951
+typography_spectrum: 0.5772512122057378
 color:
-  saturation: 0.5699831
-  brandStrength: 0.3895447
-  rhythmicContrast: 0.5092749
+  saturation: 0.4823826642241329
+  brandStrength: 0.8627765134442598
+  rhythmicContrast: 0.451742488425225
   brandColors:
-    - '#FFFFFF'
-    - '#DBBA49'
-    - '#C2C2C2'
-    - '#000000'
-    - '#9C7A0F'
-  lightness: 0.3220911
+    - '#FFFEDF'
+    - '#0003FE'
+    - '#FE7B50'
+    - '#00F0D8'
+    - '#007D92'
+  lightness: 0.7658003813121468
 title: MINDFUL LONG BEACH
 purpose: []
 collections:
