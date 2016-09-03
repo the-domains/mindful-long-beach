@@ -1,3 +1,16 @@
+layout_spectrum: 0.48360303440131247
+typography_spectrum: 0.31449832930229604
+color:
+  saturation: 0.5699831
+  brandStrength: 0.3895447
+  rhythmicContrast: 0.5092749
+  brandColors:
+    - '#FFFFFF'
+    - '#DBBA49'
+    - '#C2C2C2'
+    - '#000000'
+    - '#9C7A0F'
+  lightness: 0.3220911
 title: MINDFUL LONG BEACH
 purpose: []
 collections:
@@ -12,17 +25,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5699831
-  brandStrength: 0.3895447
-  rhythmicContrast: 0.5092749
-  brandColors:
-    - '#FFFFFF'
-    - '#DBBA49'
-    - '#C2C2C2'
-    - '#000000'
-    - '#9C7A0F'
-  lightness: 0.3220911
 cta:
   bucket: null
   version: null
@@ -37,5 +39,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0
-layout_spectrum: 0.4325464
